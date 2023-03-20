@@ -1,9 +1,9 @@
 <?php
 
-namespace Omnibus\Core\Reply;
+namespace Omnibus\Core\Response;
 
 use Omnibus\Core\Exception\ExceptionInterface;
 
-interface ReplyInterface
+interface ResponseInterface
 {
 }

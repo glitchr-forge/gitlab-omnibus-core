@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnibus\Core\Exception\Http;
+namespace Omnibus\Core\Exception;
 
 use Omnibus\Core\Exception\RuntimeException;
 use Psr\Http\Message\RequestInterface;

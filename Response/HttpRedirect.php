@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnibus\Core\Reply;
+namespace Omnibus\Core\Response;
 
 use InvalidArgumentException;
 
